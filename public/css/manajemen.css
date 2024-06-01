@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    background-color: rgb(108, 204, 24);
+}
+
+.table {
+    border: 100px;
+    border-color: rgb(10, 10, 10);
+    text-align: center;
+
+
+}
+
+.btn-tambah {
+    color: blue;
+    background-color: bisque;
+}
+
+
